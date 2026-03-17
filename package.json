@@ -1,0 +1,10 @@
+{
+  "name": "defi-yield-optimizer",
+  "version": "1.0.0",
+  "description": "AI-powered yield farming optimizer that automatically moves funds to highest APY pools",
+  "scripts": {
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js"
+  },
+  "license": "MIT"
+}
